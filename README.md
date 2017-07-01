@@ -1,4 +1,4 @@
-# PerconaDB 5.6 Docker
+# PerconaDB 5.5 Docker
 
 <small>**Latest build:** 2017-07-01</small>
 
